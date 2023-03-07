@@ -1,6 +1,4 @@
-#Zahran Yahia Khan
-#U63179657
-#This program finds the factorial of a number.
+#This program finds the factorial of a number without using the math module.
 
 number = int(input('Enter a nonnegative integer:'))
 #Thinking about the cases which are not acceptable:
