@@ -1,4 +1,3 @@
-#Zahran Yahia Khan
 #This program calculates Exponents using recursion (showing the use of recursive function)
 
 
