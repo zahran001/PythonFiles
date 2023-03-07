@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #This program performs basic mathematical operations using lambda functions
 
 addition = lambda x,y: x+y
