@@ -1,6 +1,5 @@
-#Zahran Yahia Khan
-#U63179657
-#This program simulates the Magic 8 Ball
+#This program simulates the Magic 8 Ball toy.
+#This program prompts the user for a question and gives a random response from the 20 answers on the given list.
 import random
 
 # Two functions: A main function and a function that prints the response.
