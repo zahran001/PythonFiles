@@ -1,6 +1,4 @@
-#Zahran Yahia Khan
-#U63179657
-#This program draws the required polygon.
+#This program draws a polygon with the turtle module.
 
 import turtle
 #numerical input
