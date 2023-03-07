@@ -1,6 +1,5 @@
 #Zahran Yahia Khan
-#U63179657
-#This program calculates Exponents using recursion
+#This program calculates Exponents using recursion (showing the use of recursive function)
 
 
 def exponent(base,power):
