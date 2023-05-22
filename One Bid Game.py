@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #The program simulates the game 'One Bid' by using random module.
 
 #set the range of the price as $1000 - $5000
