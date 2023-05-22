@@ -1,6 +1,4 @@
-#Zahran Yahia Khan
-#U63179657
-#This program simulates the Retail items problem
+#This program displays the information of two retail items in a table 
 
 class Retail_Item:
     def __init__(self, t, a, p):
@@ -16,8 +14,6 @@ def main():
     amount1 = input('Amount of item 1: ')
     price1 = input('Price of item 1: ')
 
-
-
     name2 = input('Name of item 2: ')
     amount2 = input('Amount of item 2: ')
     price2 = input('Price of item 2: ')
@@ -32,8 +28,6 @@ def main():
 
     print(obj1)
     print(obj2)
-
-
 
 
 #call
