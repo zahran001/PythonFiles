@@ -1,8 +1,6 @@
-#Zahran Yahia Khan
-#U63179657
 #This program has N-sided Polygon class definition and main function
 
-# Data hiding in Python is done by using a double underscore before (prefix) the attribute name.
+# Data hiding in Python is done by using a double underscore before the attribute name.
 class Polygon:
     def __init__(self): #initializer method
         self.__sides = 0
