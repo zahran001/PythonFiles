@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #This program encrypts a text file.
 
 Encrypt_Code = {'A':')','a':'0','B':'(','b':'9','C':'*','c':'8',
