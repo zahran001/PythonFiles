@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #This program is a Capital quiz game.
 import random
 d = { 'Alabama' : 'Montgomery',
