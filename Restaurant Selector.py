@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #The program provides the options of restaurants available as per user's dietary restrictions.
 
 #Take the inputs:
