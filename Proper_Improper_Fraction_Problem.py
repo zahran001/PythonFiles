@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #The program solves the given fraction related problem using math module
 
 import math
@@ -14,7 +12,7 @@ while denominator < 0:
 
 gcd = math.gcd(numerator,denominator)
 
-if numerator < denominator: #Step 3
+if numerator < denominator:
     print(f'{numerator}/{denominator} is a proper fraction.')
     if gcd == 1: #Step 4
         print('This proper fraction cannot be reduced any further.')
@@ -24,7 +22,7 @@ if numerator < denominator: #Step 3
         print(f'The proper fraction can be reduced to: {new_numerator}/{new_denominator}')
 
 
-else:  #Step 5
+else:  
     print(f'{numerator}/{denominator} is an improper fraction.')
     if gcd != 1:
         newest_denominator = denominator / gcd
