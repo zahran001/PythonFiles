@@ -1,4 +1,4 @@
-#The program solves the given fraction related problem using math module
+#The program deals with proper and improper fractions by using math module.
 
 import math
 numerator = int(input('Enter a numerator:'))
