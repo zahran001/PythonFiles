@@ -1,5 +1,3 @@
-#Zahran Yahia Khan
-#U63179657
 #This program calculates the intersecting point between two lines if it exists.
 
 class LinearEquations:
@@ -32,7 +30,7 @@ class LinearEquations:
         self.__e = (self.__y1 - self.__y2) * self.__x1 - (self.__x1 - self.__x2) * self.__y1
         self.__f = (self.__y3 - self.__y4) * self.__x3 - (self.__x3 - self.__x4) * self.__y3
 
-        return [self.__a,self.__b,self.__c,self.__d,self.__e,self.__f] #Don't mess it up
+        return [self.__a,self.__b,self.__c,self.__d,self.__e,self.__f] 
 
 
 
@@ -42,11 +40,6 @@ class LinearEquations:
             f"\n{self.calccoeffs()[0]}x + {self.calccoeffs()[1]}y = {self.calccoeffs()[4]}"+\
             f"\nThe equation of the second line with the points {self.__p3} and {self.__p4} is:"+\
             f"\n{self.calccoeffs()[2]}x + {self.calccoeffs()[3]}y = {self.calccoeffs()[5]}"
-
-
-
-# obj = LinearEquations((3,4),(-1,-2),(6,6),(-1,-4))
-# print(obj)
 
 
     def checker(self):
@@ -88,7 +81,6 @@ def main():
     p3y = float(p3y)
     p4y = float(p4y)
 
-    #TypeError: unsupported operand type(s) for -: 'str' and 'str'
 
     #Form the final tuple
     p1 = (p1x,p1y)
