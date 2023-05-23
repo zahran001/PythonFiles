@@ -1,7 +1,4 @@
-#Zahran Yahia Khan
-#U63179657
-#This program converts the given temperature.
-
+#  Temperature conversion program  
 def display():
     print('This program will convert temperatures for you!')
     print('Here are your options:')
