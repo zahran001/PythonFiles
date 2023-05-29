@@ -1,4 +1,4 @@
-#Number Guesser by ZYK
+#Number_Guesser
 import random
 top_of_range = input("Type the top of the range: ")
 if top_of_range.isdigit():
