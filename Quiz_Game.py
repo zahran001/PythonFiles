@@ -1,4 +1,4 @@
-#Quiz Game  by Zahran
+#Computer Quiz Game
 print("Welcome to my Computer Quiz")
 playing = input("Do you want to play? ").lower()
 if playing != "yes":
