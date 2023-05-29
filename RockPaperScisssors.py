@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors by ZYK
+# Rock_Paper_Scissors
 import random
 user_wins = 0
 computer_wins = 0
